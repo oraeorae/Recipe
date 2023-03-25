@@ -1,5 +1,7 @@
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/11.png)
+
 # 乡村特色菜谱
-基于SpringBoot，Mybatis，Redis的乡村特色菜谱（本项目参加 2022年中国高校计算机大赛_——微信小程序应用开发赛 ）
+基于SpringBoot，Mybatis，Redis的乡村特色菜谱（本项目参加 2022年中国高校计算机大赛——微信小程序应用开发赛 ）
 
 ## 简介
 在乡村振兴的大背景下，我们开创性地**以菜谱为切入点**，以**小切口推动大发展**。“乡村特色菜谱”是我们输出烹饪文化、菜品文化，同时推广乡村农产品、促进农民增收并构建乡村形象及乡村品牌的主要渠道。
@@ -49,16 +51,16 @@
 ```
 
 ### 架构设计
-![[Pasted image 20230131233718.png]]
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/22.png)
 
 ### 类图
-![[Pasted image 20230131233755.png]]
-![[Pasted image 20230131233804.png]]
-![[Pasted image 20230131233820.png]]
-![[Pasted image 20230131233827.png]]
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/33.png)
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/44.png)
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/55.png)
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/66.png)
 
 ### 数据库ER图
-![[Pasted image 20230131233847.png]]
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/77.png)
 
 ## 开发环境
 
@@ -111,9 +113,9 @@ https://console-docs.apipost.cn/preview/7dcbc893de8771bc/28fee78c52b142ce
 -  基本雏形（2022.5.16）
 
 ## 小程序码
-![[Pasted image 20230131233033.png]]
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/88.png)
 
 ## 页面展示
-![[Pasted image 20230325101335.png]]
-![[Pasted image 20230325101352.png]]
-![[Pasted image 20230325101358.png]]
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/99.png)
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/1010.png)
+![image](https://github.com/oraeorae/Recipe/blob/1/photo/1111.png)
